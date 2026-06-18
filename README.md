@@ -87,9 +87,6 @@ python app.py
 
 ---
 
-## 📸 Screenshots
-
-*(Add your project screenshots here)*
 
 ---
 
